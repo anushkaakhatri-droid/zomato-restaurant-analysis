@@ -37,6 +37,18 @@ This project uses Microsoft Excel to analyse restaurant data and present key met
 
 **Service Availability:** Analyse online delivery and table-booking availability.
 
+## Key Findings
+
+Restaurant ratings: The dataset's overall average rating was approximately 2.89 out of 5.
+
+Online delivery: 2,451 of the 9,551 restaurants offered online delivery.
+
+Delivery and ratings: Restaurants offering online delivery had a higher average rating than restaurants without it in this dataset.
+
+Table booking and ratings: Restaurants offering table booking also had a higher average rating than those without it.
+
+Note: These are descriptive findings from the dataset and do not establish that service availability causes higher ratings.
+
 ## Files Included
 
 - `zomato-dashboard.jpeg` — Visual preview of the Excel dashboard.
